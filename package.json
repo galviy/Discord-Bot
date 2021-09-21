@@ -1,0 +1,11 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "My old discord bot source",
+  "main": "main.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "Galvin",
+  "license": "ISC"
+}
